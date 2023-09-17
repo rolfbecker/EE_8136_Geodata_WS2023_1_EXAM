@@ -1,0 +1,41 @@
+# EE_3.07 Course Material
+# R. Becker, 2021-11-13, V002
+
+# Use .gitignore to not share all solutions at once.
+# By default ignore all directories containing solutions denoted by trailing pattern _soln
+
+gi*/
+*_soln/
+*_dev/
+*_old/
+*_tmp/
+*_INCLASS/
+tmp/
+
+*.ipynb_checkpoints/
+*checkpoint.ipynb
+
+data/original/DWD/*
+
+data/original/NRW_DTM_Xanten_EPSG_4647_XYZ_old/dgm1_05170052_Xanten_EPSG4647_XYZ/dgm1*
+data/original/NRW_DTM_Xanten_EPSG_4647_XYZ_old/dgm1_05170052_Xanten_EPSG4647_XYZ.zip
+
+data/original/NRW_DTM_Hees_EPSG_25832_XYZ/*
+data/original/NRW_DTM_Xanten_EPSG_25832_XYZ/*
+
+data/original/OpenHygrisC_gw-messstellen-messwerte_EPSG25832_CSV/
+
+
+data/derived/NRW_DTM_Hees_EPSG_25832_GeoTiff/*
+
+!data/derived/NRW_DTM_Hees_EPSG_25832_GeoTiff/*merged.tif
+
+
+# Exceptions allow to disseminate the solutions selectively.
+
+#!gdms0100_DWD_NRW_soln
+#!gdms0101_HW_Map_soln
+#!gdms0201_DWD_NRW_long_TS_soln
+#!gdms0301_DWD_TS_Pandas_soln
+#!gdms0601_DWD_Stations_and_TS_for_TM_soln
+#!gdms0350_DWD_Stations_and_TS_for_TM_soln
