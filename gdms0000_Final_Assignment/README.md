@@ -1,13 +1,13 @@
-# EE_3.07 Geodata Management Systems SS2023 - <br> Final Assignment
+# EE_8138 Geodata Management Systems WS2023_1 - <br> Final Assignment
 
 ## 0. General Remarks
 
-1. Due date is **Thursday 2023-08-31T23:59:59CET**. 
+1. Due date is **Sunday 2023-10-29T23:59:59CET**. 
 1. You can withdraw from exam registration until a week before! 
 3. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. The code you are uploading as well as additional documentation including a video has to **enable us to redo your work completely!** You must tell us which data you use and where to download it.
 4. You can work in **groups of 1 - 3 students**. You have do the **group assignment** in our Moodle course: XYZ <br> Assign to a group even if you **work alone**.
 6. Create **one zip file** which contains all your work but **do not add very big data!** 
-7. **USE THE FOLLWING REPO NAME:** `GeoData_SS2023_Final_<Group ID>`, (e.g. GeoData_SS2023_Final_Group_Z). 
+7. **USE THE FOLLWING REPO NAME:** `GeoData_WS2023_1_Final_<Group ID>`, (e.g. GeoData_WS2023_1_Final_Group_Z). 
 8. **Upload** your zip file to the **Moodle** upload area. 
 10. Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Upload your Python/Jupyter scripts as well as QGIS projects but **do not add very large datasets** (e.g. no satellite images, excessive DTM tiles in XYZ format, etc.) to your project folder. In case you use very large datasets **share the link to the data** in your documentation and/or your code and describe how to download and store it locally. I would expect local folders like  `<YOUR REPO>/data/...`. 
 11. In case you **you produce very large datasets** tell us how and **enable us to reproduce your results** instead of flooding your repo with big data.
